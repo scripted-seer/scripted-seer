@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Python Developer | Cybersecurity Student<br>🔧 Skills: Telethon, Requests, BS4, JSON<br>🛠️ Building: Telegram bots, security scrapers, network analysis tools<br>📚 Learning: C & Go for low-level security tools development<br>🚀 Always eager to learn and collaborate on open-source projects!
+💻 Python Developer | Cybersecurity Student<br>🔧 Skills: Telethon, Requests, BS4, JSON<br>🛠️ Building: Telegram bot<br>📚 Learning: C & Go for low-level security tools development<br>🚀 Always eager to learn and collaborate on open-source projects!
 
 
 ## 🌐 Socials:
